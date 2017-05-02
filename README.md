@@ -1,2 +1,4 @@
 # chainjazz.github.io
-GitHub User Page
+Official WWW presentation of Tritonic Incorporated
+
+Contact person: Rastko [chainjazz](https://github.com/chainjazz)
